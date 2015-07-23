@@ -1,6 +1,8 @@
 # roll 
 A command line dice roller
 
+## Requirements
+Python
 
 You can do everything by moving the script to your ```/usr/local/bin``` or ```/usr/bin directory```, and typing ```roll``` into the command line. This is done with ```sudo mv roll.py /usr/local/bin/roll``` or ```sudo mv roll.py /usr/bin/roll```.
 ### Arguments
